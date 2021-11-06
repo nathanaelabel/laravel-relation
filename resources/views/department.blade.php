@@ -15,7 +15,7 @@
                 <th>Department</th>
                 <th>Location</th>
                 <th>Description</th>
-                <th class="text-center">Actions</th>
+                <th>Actions</th>
             </tr>
 
             @foreach ($departments as $dept)
