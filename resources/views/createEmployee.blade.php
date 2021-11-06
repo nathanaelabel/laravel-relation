@@ -49,7 +49,7 @@
             </div>
 
             <br />
-            <button type="submit" name="submit" value="submit">Submit</button>
+            <button type="submit" class="btn btn-primary" name="submit" value="submit">Submit</button>
 
         </form>
 

@@ -1,6 +1,6 @@
 {{-- Navigation Bar here --}}
 <div class="container-fluid justify-content-end">
-    <ul class="nav nav-tabs nav justify-content-center" >
+    <ul class="nav nav-pills nav justify-content-center py-2" >
       <li class="nav-item">
         <a class="nav-link {{($title === "Home")?'active':''}}" href="/">Home</a>
       </li>
@@ -18,5 +18,5 @@
   
   {{-- Footer here --}}
   <nav class="navbar navbar-expand-sm bg-light navbar-dark fixed-bottom justify-content-center">
-      Copyright 2021, Company
+      <b>Copyright 2021, Company</b>
   </nav>

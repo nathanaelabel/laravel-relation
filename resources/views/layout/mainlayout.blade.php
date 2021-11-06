@@ -30,9 +30,9 @@
     
     @include('layout.navigation')
     
-    <div class="container py-3">
+    <div class="container">
 
-        <h2>@yield('pagetitle')</h2>
+        {{-- <h2>@yield('pagetitle')</h2> --}}
 
         @yield('content')
 

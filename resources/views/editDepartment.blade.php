@@ -5,7 +5,6 @@
 
     @section('content')
 
-
     <form action="{{ route('departments.update', $department->dept_id) }}" method="post">
         {{ csrf_field() }}
 
@@ -27,7 +26,7 @@
         </div>
 
         <br />
-        <button type="submit" name="submit" value="submit">Submit</button>
+        <button type="submit" class="btn btn-primary" name="submit" value="submit">Submit</button>
 
     </form>    
 
