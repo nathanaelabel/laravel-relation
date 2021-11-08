@@ -20,8 +20,6 @@
   </nav>
   
 {{-- Footer here --}}
-<div class="fixed-bottom">
-    <nav class="navbar navbar-expand-sm bg-light navbar-dark fixed-bottom justify-content-center"> <!-- Udah dikasih fixed-bottom tapi malah naik keatas nge-bug? -->
+  <footer class="navbar navbar-expand-sm bg-light navbar-dark fixed-bottom justify-content-center">
       <b>Copyright 2021, Company</b>
-  </nav>
-</div>
+  </footer>

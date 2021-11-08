@@ -15,18 +15,22 @@ p,
 }
 
 nav {
+    background-color: #fff;
     display: flex;
     flex-wrap: wrap;
     padding-left: 0;
     margin-bottom: 0;
     list-style: none;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.247);
+    box-shadow: 0 1px 1px rgba(161, 161, 161, 0.247);
   }
-  
+
+footer {
+    background-color: #fff;
+}
+
 .nav-logo {
-    max-width: 50%;
-    max-height: 40%;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.247);
+    max-width: 30%;
+    max-height: 30%;
 }
 
 .table-wrap {
