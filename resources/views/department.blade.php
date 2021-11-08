@@ -4,9 +4,7 @@
 
     @section('content')
 
-    <div class="container">
-
-        <table class="table-wrap">
+    <div class="container mt-3">
 
             <table class="table table-wrap table-striped table-hover">
 
@@ -68,8 +66,6 @@
                 </tbody>
 
             </table>
-
-        </table>
 
     </div>
         

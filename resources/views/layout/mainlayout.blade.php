@@ -28,11 +28,9 @@
 
 <body>
     
-    @include('layout.navigation')
-    
     <div class="container">
 
-        {{-- <h2>@yield('pagetitle')</h2> --}}
+        @include('layout.navigation')
 
         @yield('content')
 
