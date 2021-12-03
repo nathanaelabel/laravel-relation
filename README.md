@@ -9,7 +9,7 @@
 
 ## About This Project
 
-This Project is made for my AFL submission course Web Development. Laravel Project 1 to Many, Company with Employees and Departments as the tables made by Nathanael Abel Arianto (0706012010029).
+This Project is made for my AFL submission course Web Development. Laravel Project One to Many, Company CRUD Website with Employees and Departments as the tables.
 
 ## About Laravel
 
